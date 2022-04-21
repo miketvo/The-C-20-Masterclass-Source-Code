@@ -1,4 +1,5 @@
 .vscode/*
+build
 *vs*
 *Debug*
 *.exe
